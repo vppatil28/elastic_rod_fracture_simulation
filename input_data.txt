@@ -1,0 +1,9 @@
+0.07, 1.5, 3.8e10, 0.3, 1.68e4, 3.6, 18, 0
+
+
+Input parameters are in cgs units, and in order are given by:
+
+radius, density, Young's modulus, Poisson's ratio, twist damping parameter, minimum fragment size, end-to-end distance at fracture, total twist in rod (degrees)
+
+
+
